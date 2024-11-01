@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
 import { Info, Shield, Key, FileText, ChevronDown, ChevronUp, Minimize2 } from 'lucide-react';
 

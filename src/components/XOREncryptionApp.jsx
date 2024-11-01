@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
 import { Download, Lock, Unlock, Copy, RefreshCw } from 'lucide-react';
 import Background from './Background';
